@@ -1,5 +1,3 @@
-# Operations-Labor-Tracker
-Tracking shift hours, labor costs, and operational task allocation.
 # Operations Labor & Time Tracker (C++)
 
 A command-line workforce and task management utility built in C++ designed to track shift hours, categorize operational tasks, calculate labor costs, and maintain persistent local records. 
